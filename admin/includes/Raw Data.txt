@@ -1,0 +1,3 @@
+
+				<li class="prnt"><a href="tour-history.php">My Tour History</a></li>
+				<li class="prnt"><a href="travel-history.php">My Travel History</a></li>
